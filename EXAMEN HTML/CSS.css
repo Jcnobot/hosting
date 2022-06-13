@@ -1,0 +1,49 @@
+body
+{
+	width:85%
+	max-width:850px;
+	margin:20px;
+}
+*
+{
+	margin: 0 auto;
+	background:#FCF3CF;
+	padding: 3px;
+	color:black;
+
+}
+a
+{
+color:#1D07FF;
+font-family:georgia;
+}
+	
+h1
+{
+	color:#E53935 ;
+	font-family:georgia;
+	text-align:center
+}
+img
+{
+	height:150px;	
+	min-width:10%;
+	height:250px;	
+	min-height:20%;
+}
+header
+{
+	heigth:20%
+	color:white;
+	background-color:#E53935;
+
+}
+table
+{
+	width: 60%;
+	height: 300px;
+	color:	#145A32;
+	border-collapse: collapse;
+	text-align:center;
+	margin: 0 auto;
+}
